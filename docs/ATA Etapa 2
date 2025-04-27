@@ -25,3 +25,35 @@ Estruturação geral da politica de segurança.
 Reestruturação do modelo de política para adequação com o projeto GITLAB.
 Ajuda na divisão de tarefas e prazos.
 Adequação de sumário.
+
+Davi Gaio:
+Etapa 2 - Fundamentos:
+1. Fluxograma do Processo de Negócio
+2. Identificação dos componentes suscetíveis
+3. Mapeamento dos itens relacionados à TI invisível (Ajudei na elaboração)
+4. Identificação dos dispositivos pessoais (Ajudei na elaboração)
+5. Identificação de riscos de segurança física e lógica (Ajudei na elaboração) 
+
+Etapa 2 - Política:
+1. Introdução
+  1.1 Objetivo
+  1.2 Escopo  
+2. Princípios de Segurança
+  2.1 Confidencialidade
+  2.2 Integridade
+  2.3 Disponibilidade
+3. Gerenciamento de Acesso
+  3.1 Controle de Acesso e Identidades
+  3.2 Autenticação
+  3.3 Autorização
+4. Segurança de Redes e Comunicações
+  4.1 Proteção de Redes
+  4.2 Monitoramento e detecção de intrusões
+14. Conformidade Legal e Regulatória
+  14.1 Conformidade com leis e regulamentações
+  14.2 Gerenciamento de vulnerabilidades e patches
+15. Responsabilidades
+  15.1 Direção
+  15.2 Equipe de Segurança da Informação
+  15.3 Funcionários
+
