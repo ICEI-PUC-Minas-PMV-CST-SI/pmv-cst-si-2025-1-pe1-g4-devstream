@@ -1,9 +1,0 @@
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\bin\Release\DevStreamInventory.exe.config
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\bin\Release\DevStreamInventory.exe
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\bin\Release\DevStreamInventory.pdb
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.csproj.AssemblyReference.cache
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.Properties.Resources.resources
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.csproj.GenerateResource.cache
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.csproj.CoreCompileInputs.cache
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.exe
-C:\Users\davig\OneDrive\Área de Trabalho\scriptC#\DevStreamInventory\DevStreamInventory\obj\Release\DevStreamInventory.pdb
