@@ -7,7 +7,7 @@
 
 `Etapa: 1`
 
-A GitLab se destaca no setor de tecnologia ao oferecer uma plataforma unificada que abrange todo o ciclo de vida do DevOps. Essa integração engloba desde o planejamento e desenvolvimento de software até a implantação, monitoramento e gestão de segurança de aplicações. No contexto do nosso projeto da Etapa 1, que aborda fundamentos de segurança, exploramos os processos corporativos da GitLab e os aspectos legais de TI que impactam seus negócios. A plataforma da GitLab facilita a colaboração entre equipes, promove a automação de processos e garante a conformidade com padrões de segurança, tornando-se uma solução abrangente para o desenvolvimento de software moderno.
+A DevStream se destaca no setor de tecnologia ao oferecer uma plataforma unificada que abrange todo o ciclo de vida do DevOps. Essa integração engloba desde o planejamento e desenvolvimento de software até a implantação, monitoramento e gestão de segurança de aplicações. No contexto do nosso projeto da Etapa 1, que aborda fundamentos de segurança, exploramos os processos corporativos da DevStream e os aspectos legais de TI que impactam seus negócios. A plataforma da DevStream facilita a colaboração entre equipes, promove a automação de processos e garante a conformidade com padrões de segurança, tornando-se uma solução abrangente para o desenvolvimento de software moderno.
 
 ## Integrantes
 
